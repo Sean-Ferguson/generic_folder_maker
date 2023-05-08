@@ -11,6 +11,6 @@ function generic
         $root_folder'Proofs' \
         $root_folder'Purchase Orders' \
         $root_folder'Supplied/Supplied on '(date -u +'%m-%d-%Y') \
-        $root_folder' fonts/customer_supplied_fonts' \
-        $root_folder' fonts/gp_suppled_fonts'
+        $root_folder'0000 fonts/customer_supplied_fonts' \
+        $root_folder'0000 fonts/gp_suppled_fonts'
 end
